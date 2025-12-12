@@ -1,0 +1,71 @@
+# Razihel – Love U
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+oooh oh oh oh oh baby (my baby)
+We don't need help
+but we don't need this
+'cause we don't need this
+oooh baby get it on
+oh I feel, feel, feel
+My life get it on
+We don't need help
+but we don't need this
+'cause we don't need this
+oooh baby get it on
+oh I feel, feel, feel
+My life get it on
+We don't need help
+but we don't need this
+'cause we don't need this
+oooh baby get it on
+oh I feel, feel, feel
+My life
+I, I, I, I, I
+I, I, I, I love you
+I, I, I miss you
+I, I, I love you
+I, I, I, I
+I, I, I, I love you
+I, I, I miss you
+I, I, I love you
+We don't need help
+I, I, I, I love you
+I, I, I miss you
+I, I, I love you
+I, I, I, I
+I, I, I, I love you
+I, I, I miss you
+I, I, I love you
+I, I, I, I
+We don't need help
+but we don't need this
+'cause we don't need this
+oooh baby get it on
+oh I feel, feel, feel
+My life get it on
+We don't need help
+but we don't need this
+'cause we don't need this
+oooh baby get it on
+oh I feel, feel, feel
+My life (you're my baby)
+I, I, I, I, I
+I, I, I, I love you
+I, I, I miss you
+I, I, I love you
+I, I, I, I
+I, I, I, I love you
+I, I, I miss you
+I, I, I love you
+We don't need help
+I, I, I, I love you
+I, I, I miss you
+I, I, I love you
+I, I, I, I
+I, I, I, I love you
+I, I, I miss you
+I, I, I love you
+I, I, I, I
+```
