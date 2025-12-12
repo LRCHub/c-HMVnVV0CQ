@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Love U",
+  "base_artist": "Razihel",
+  "createdAt": "2025-12-12T15:09:42.963361Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Until U Love U - Nicole Scherzinger",
+      "artist": "The Pussycat Dolls",
+      "has_synced": false,
+      "path": "select/01_Until_U_Love_U_-_Nicole_Scherzinger_The_Pussycat_Dolls.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Until U Love U",
+      "artist": "Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/02_Until_U_Love_U_Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love U 4 Life",
+      "artist": "Jodeci",
+      "has_synced": true,
+      "path": "select/03_Love_U_4_Life_Jodeci.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love U Better",
+      "artist": "Ty Dolla $ign feat. Lil Wayne & The-Dream",
+      "has_synced": true,
+      "path": "select/04_Love_U_Better_Ty_Dolla_$ign_feat._Lil_Wayne_&_The-Dream.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love U Better (feat. Lil Wayne & The-Dream)",
+      "artist": "Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/05_Love_U_Better_(feat._Lil_Wayne_&_The-Dream)_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "F**k U Love U",
+      "artist": "Alison Wonderland",
+      "has_synced": true,
+      "path": "select/06_F_k_U_Love_U_Alison_Wonderland.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fuck U Love U",
+      "artist": "Alison Wonderland",
+      "has_synced": true,
+      "path": "select/07_Fuck_U_Love_U_Alison_Wonderland.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Love U",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/08_I_Love_U_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All The Critics Love U In New York (2019 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/09_All_The_Critics_Love_U_In_New_York_(2019_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All The Critics Love U In New York - 7\" Edit - 2019 Remaster",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/10_All_The_Critics_Love_U_In_New_York_-_7__Edit_-_2019_Remaster_Prince.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All The Critics Love U In New York (7\" Edit) (2019 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/11_All_The_Critics_Love_U_In_New_York_(7__Edit)_(2019_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All The Critics Love U In New York",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/12_All_The_Critics_Love_U_In_New_York_Prince.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eye Love U, But Eye Don't Trust U Anymore (feat. Ani DiFranco)",
+      "artist": "Prince feat. Ani DiFranco",
+      "has_synced": true,
+      "path": "select/13_Eye_Love_U,_But_Eye_Don't_Trust_U_Anymore_(feat._Ani_DiFranco)_Prince_feat._Ani_DiFranco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eye Love U, But Eye Don't Trust U Anymore",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/14_Eye_Love_U,_But_Eye_Don't_Trust_U_Anymore_Prince.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Eye Love U, But Eye Don't Trust You Anymore",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/15_Eye_Love_U,_But_Eye_Don't_Trust_You_Anymore_Prince.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Love U in Me",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/16_I_Love_U_in_Me_Prince.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All the Critics Love U In London (Live)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/17_All_the_Critics_Love_U_In_London_(Live)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "All The Critics Love U In London",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/18_All_The_Critics_Love_U_In_London_Prince.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Eye Love U, but Eye Don't Trust U Anymore",
+      "artist": "Prince Ani DiFranco",
+      "has_synced": true,
+      "path": "select/19_Eye_Love_U,_but_Eye_Don't_Trust_U_Anymore_Prince_Ani_DiFranco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love U",
+      "artist": "Razihel",
+      "has_synced": false,
+      "path": "select/pl_01_Love_U_Razihel.txt"
+    }
+  ]
+}
